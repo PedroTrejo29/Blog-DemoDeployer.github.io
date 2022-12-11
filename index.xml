@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First on Pedro Trejo</title>
+    <link>/</link>
+    <description>Recent content in First on Pedro Trejo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Dec 2022 18:01:10 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why me?</title>
+      <link>/sample/markdown-syntax/</link>
+      <pubDate>Wed, 07 Dec 2022 18:01:10 -0700</pubDate>
+      
+      <guid>/sample/markdown-syntax/</guid>
+      <description>&amp;ldquo;If I have seen further than others, it is by standing on the shoulders of giants.&amp;rdquo; - Sir Isaac Newton
+Why do I want to be mentored? Eight years of professional experience and I&amp;rsquo;ve had a handful of impactful mentors.The mentoring I&amp;rsquo;ve taken part of has made me a better technical worker along with a more well rounded person. It&amp;rsquo;s invaluable to see how a professional approaches a problem.</description>
+    </item>
+    
+  </channel>
+</rss>
